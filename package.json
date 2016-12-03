@@ -1,0 +1,27 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Participating in the advent of code 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "day1": "node day1/exercise.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter/first_app.git"
+  },
+  "keywords": [
+    "aoc",
+    "adventofcode",
+    "learning",
+    "fun",
+    "javascript"
+  ],
+  "author": "Marko de Roos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter/first_app/issues"
+  },
+  "homepage": "https://github.com/peter/first_app#readme"
+}
